@@ -46,7 +46,7 @@
     &none       &none          &kp UP    &none     &none    &none    &none      &bt BT_SEL 1 &bt BT_SEL 2         &out OUT_BLE   &out OUT_USB    &none      &none       &kp UP   &none     &none      &none     &none  &none
     &none       &kp LEFT       &kp DOWN  &kp RIGHT &none    &none               &bt BT_SEL 3 &bt BT_SEL 4         &none          &none           &none      &kp LEFT    &kp DOWN   &kp RIGHT     &none      &none     &none
     &kp CAPS    &none          &none     &none     &none    &none    &none      &bt BT_SEL 5 &bt BT_SEL 6         &bt BT_CLR     &none           &none      &none       &none   &none     &kp LA(GRAVE)      &none     &none
-    &none       &none          &none     &none                                  &bootloader                                            &none                                                  &kp LA(LSHIFT)   &none   &none   &none
+    &none       &none          &none     &none                                  &bootloader                                            &none                                                  &none   &none   &none   &none
 	                                                                            &none  &none                                            &none   &none       
             >;
 
